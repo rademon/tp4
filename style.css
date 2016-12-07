@@ -1,0 +1,11 @@
+header h2{
+  text-align:center;
+  background-color: grey;
+  
+}
+
+header h2 nav ul a{
+  background-color: blue;
+  display: inline-block;
+  
+}
